@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -13,7 +12,7 @@
       color: #333;
     }
     header {
-      background: url('https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop>      color: white;
+      background:      color: black;
       text-align: center;
       padding: 100px 20px;
     }
